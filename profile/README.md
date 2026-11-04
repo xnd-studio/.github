@@ -1,6 +1,6 @@
 ## Hey, we're xnd-studio.de 👋
 
-Websites and web apps from Dresden for clubs, initiatives, local businesses and the self-employed. Every site gets its own design and runs on our own hosting in Germany.
+Websites and web apps from Dresden for clubs, initiatives, local businesses and the self-employed. Every site gets its own design, no templates.
 
 ### What we do
 
@@ -8,8 +8,6 @@ Websites and web apps from Dresden for clubs, initiatives, local businesses and 
 |---|---|
 | 🌐 **Websites** | Custom-designed sites with a CMS, sold as fixed-price packages you can extend with modules |
 | 🧩 **Web apps** | Logins, databases and custom logic, quoted individually after a first call |
-| 🛡️ **Hosting & maintenance** | Updates, daily backups and monitoring on servers in Germany |
-
 ### What we stand for
 
 | | |
